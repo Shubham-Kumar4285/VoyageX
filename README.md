@@ -1,50 +1,51 @@
-# Welcome to your Expo app 👋
+# **VoyageX** 🌍✈️
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## **AI Trip Planner App**
 
-## Get started
+Welcome to **VoyageX** – the ultimate AI-powered trip planner app designed to help users effortlessly plan their travel adventures. With VoyageX, users can create personalized itineraries based on their preferences, including budget, travel partners, flights, hotel information, and more!
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## **Features** 🚀
 
-2. Start the app
+### **Plan Your Perfect Trip**
+- **Personalized Preferences:** Tailor your trip based on your **budget**, **travel partners**, and personal preferences.
+- **Complete Itinerary:** Generate a detailed itinerary for your trip, including activities, flight schedules, hotel bookings, and charges.
 
-   ```bash
-    npx expo start
-   ```
+### **Smart Travel Information**
+- **Flight & Hotel Details:** Get all the necessary information, such as flight schedules and hotel charges, in one place.
+- **Discover Popular Places:** Explore and get quick info about popular places around the world with our **Discover** page.
 
-In the output, you'll find options to open the app in a
+### **User-Friendly Experience**
+- **Responsive UI:** Designed to be responsive across multiple devices, ensuring a seamless user experience.
+- **Quick & Easy to Use:** An intuitive interface makes trip planning simple and efficient.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### **Secure & Cloud-Based**
+- **Authentication Services:** With user authentication, your trips are securely stored in the cloud.
+- **Cloud Storage:** Keep your plans safe, accessible, and synchronized across multiple devices.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## **Technology Stack** 🛠️
 
-When you're ready, run:
+- **Frontend:** React Native using Expo
+- **Authentication & Cloud Storage:** Firebase (or your choice of cloud service)
+- **Design:** Beautiful and intuitive UI/UX to provide a seamless experience
+
+---
+
+## **Screenshots** 📸
+
+Here are some glimpses of what **VoyageX** looks like:
+
+will be added soon..
+
+---
+
+## **Installation & Setup** 💻
+
+### **1. Clone the Repository**
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/Shubham-Kumar4285/VoyageX.git
+cd VoyagaX
