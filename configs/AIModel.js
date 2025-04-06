@@ -6,8 +6,9 @@ const {
   
   
   
-  const apiKey = 'AIzaSyB-E3_XZv_0UwgqKc6chkN_71cbdu8cy8w'
+  const apiKey = process.env.EXPO_PUBLIC_GOOGLE_KEY
   const genAI = new GoogleGenerativeAI(apiKey);
+  
   
   const model = genAI.getGenerativeModel({
     model: "gemini-2.5-pro-exp-03-25",
