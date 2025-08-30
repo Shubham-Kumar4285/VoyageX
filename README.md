@@ -94,8 +94,8 @@ Account management and settings
 | 2️⃣ | <img src="./screenshots/traverler.jpg" width="150"/> | **Choose Travelers** - Solo, couple, family, or friends |
 | 3️⃣ | <img src="./screenshots/budget.jpg" width="150"/> | **Set Budget** - Define your spending comfort zone |
 | 4️⃣ | <img src="./screenshots/tripdetail.jpg" width="150"/> | **Plan Details** - Customize your itinerary |
-| 5️⃣ | <img src="./screenshots/tripdetail2.jpg" width="150"/> | **Detailed Itinerary** - Complete day-by-day plans |
-| 6️⃣ | <img src="./screenshots/review.jpg" width="150"/> | **Review & Confirm** - Final check before booking |
+| 5️⃣ | <img src="./screenshots/review.jpg" width="150"/> | **Review & Confirm** - Final check |
+| 6️⃣ | <img src="./screenshots/tripdetail2.jpg" width="150"/> | **Detailed Itinerary** - Complete day-by-day plans |
 
 </details>
 
