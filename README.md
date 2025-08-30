@@ -55,23 +55,51 @@ Welcome to **VoyageX** – the ultimate AI-powered trip planner app designed to 
 
 ---
 
-## 📸 Screenshots
+## 📱 VoyageX in Action
 
-Here’s a preview of VoyageX in action:
+<table>
+<tr>
+<td width="33%">
 
-### 🔹 Main Tabs
-| Home | Discover | Profile |
-|------|----------|---------|
-| ![Home](./screenshots/home.jpg) | ![Discover](./screenshots/discover.jpg) | ![Profile](./screenshots/profile.jpg) |
+**🏠 Home Dashboard**
+<img src="./screenshots/home.jpg" width="100%" alt="Home Screen"/>
+Manage and view all your planned trips
 
-### 🔹 Trip Flow
-| Trip Details | Trip Details 2 | Search Place |
-|--------------|----------------|---------------|
-| ![Trip Detail 1](./screenshots/tripdetail.jpg) | ![Trip Detail 2](./screenshots/tripdetail2.jpg) | ![Search](./screenshots/search.jpg) |
+</td>
+<td width="33%">
 
-| Select Budget | Choose Travelers | Review Trip |
-|---------------|------------------|-------------|
-| ![Budget](./screenshots/budget.jpg) | ![Traveler](./screenshots/traverler.jpg) | ![Review](./screenshots/review.jpg) |
+**🔍 Discover Places**
+<img src="./screenshots/discover.jpg" width="100%" alt="Discover Screen"/>
+Explore trending destinations worldwide
+
+</td>
+<td width="33%">
+
+**👤 User Profile**
+<img src="./screenshots/profile.jpg" width="100%" alt="Profile Screen"/>
+Account management and settings
+
+</td>
+</tr>
+</table>
+
+### 🚀 Smart Trip Planning Process
+
+<details>
+<summary><strong>See the complete planning journey</strong></summary>
+
+| Step | Screen | Description |
+|:---:|:---:|:---|
+| 1️⃣ | <img src="./screenshots/search.jpg" width="150"/> | **Search Destination** - Find your perfect travel spot |
+| 2️⃣ | <img src="./screenshots/traverler.jpg" width="150"/> | **Choose Travelers** - Solo, couple, family, or friends |
+| 3️⃣ | <img src="./screenshots/budget.jpg" width="150"/> | **Set Budget** - Define your spending comfort zone |
+| 4️⃣ | <img src="./screenshots/tripdetail.jpg" width="150"/> | **Plan Details** - Customize your itinerary |
+| 5️⃣ | <img src="./screenshots/tripdetail2.jpg" width="150"/> | **Detailed Itinerary** - Complete day-by-day plans |
+| 6️⃣ | <img src="./screenshots/review.jpg" width="150"/> | **Review & Confirm** - Final check before booking |
+
+</details>
+
+
 
 ---
 
